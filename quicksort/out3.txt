@@ -1,0 +1,320 @@
+Reading file1.txt...
+Beginning out_file1.txt write
+val is 1
+val is 2
+val is 3
+val is 4
+val is 5
+CLEAR FUNCTIONval is -5
+val is -4
+val is -3
+val is -2
+val is -1
+val is 6
+TEST: addToArray FALSE
+File write complete
+
+Reading file2.txt...
+Beginning out_file2.txt write
+val is 10
+val is 5
+val is 0
+val is -5
+val is -10
+val is 10
+val is 9
+val is 8
+val is 7
+val is 6
+val is 5
+val is 4
+val is 3
+val is 2
+val is 1
+val is 2
+val is 1
+val is 1
+val is 1
+File write complete
+
+Reading file3.txt...
+Beginning out_file3.txt write
+val is 10
+val is 9
+val is 8
+val is 7
+val is 6
+val is 5
+val is 4
+val is 3
+val is 2
+val is 1
+Current Table: Current Table: Current Table: Current Table: Current Table: Current Table: Current Table: Current Table: Current Table: Current Table: Current Table: Current Table: val is 2
+val is 2
+val is 2
+val is 3
+val is 1
+val is 2
+Current Table: Current Table: Current Table: File write complete
+
+Reading file4.txt...
+Beginning out_file4.txt write
+val is 1
+val is 2
+val is 3
+val is 4
+val is 5
+val is 1
+val is 2
+val is 3
+Command: "partition-1"
+Invalid command.  Do you have the correct input file?
+File write complete
+
+Reading file5.txt...
+Beginning out_file5.txt write
+val is 9
+val is 8
+val is 7
+val is 6
+val is 5
+val is 4
+val is 3
+val is 2
+val is 1
+val is 0
+insertPos start of sort: 10
+Sum: 4
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+Current Table: First quick line
+First quick line
+SORT FUNCTION
+val is 9
+val is 8
+val is 7
+val is 6
+val is 5
+val is 4
+val is 3
+val is 2
+val is 1
+val is 0
+val is 9
+val is 8
+val is 7
+val is 6
+val is 5
+val is 4
+val is 3
+val is 2
+val is 1
+val is 0
+insertPos start of sort: 20
+Sum: 4
+First quick line
+Current Table: First quick line
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+SORT FUNCTION
+val is 0
+val is 0
+val is 0
+val is 0
+val is 0
+val is -1
+val is 0
+val is 0
+val is 0
+val is 0
+val is 1
+val is 0
+val is 0
+val is 0
+val is 0
+val is 1
+val is 0
+val is 0
+val is -1
+val is 0
+insertPos start of sort: 20
+Sum: 4
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+SORT FUNCTION
+val is 30
+val is 29
+val is 28
+val is 27
+val is 26
+val is 25
+val is 24
+val is 23
+val is 22
+val is 21
+val is 20
+val is 19
+val is 18
+val is 17
+val is 16
+val is 15
+val is 14
+val is 13
+val is 12
+val is 11
+val is 10
+val is 9
+val is 8
+val is 7
+val is 6
+val is 5
+val is 4
+val is 3
+val is 2
+val is 1
+insertPos start of sort: 30
+Sum: 4
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+SORT FUNCTION
+val is 1
+val is 2
+val is 3
+val is 4
+val is 1
+val is 5
+val is 6
+val is 7
+val is 8
+val is 9
+insertPos start of sort: 10
+Sum: 4
+First quick line
+Current Table: First quick line
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+Current Table: First quick line
+First quick line
+SORT FUNCTION
+val is 4
+val is 6
+val is 2
+val is 1
+val is 9
+val is 5
+val is 3
+val is 8
+val is 7
+val is 9
+insertPos start of sort: 10
+Sum: 4
+First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+Current Table: First quick line
+First quick line
+First quick line
+SORT FUNCTION
+File write complete
+
+end
