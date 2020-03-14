@@ -1,0 +1,3828 @@
+Reading file1.txt...
+Beginning out_file1.txt write
+adding data: 1 done
+root is null; storing 1 as root
+adding 1
+returning true to insert and then add
+adding data: 2 done
+root is NOT null
+send: 2 to right of: 1
+adding 2
+returning true to insert and then add
+adding data: 3 done
+root is NOT null
+send: 3 to right of: 1
+send: 3 to right of: 2
+adding 3
+returning true to insert and then add
+adding data: 1 done
+root is NOT null
+returning false to insert and then false to add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+adding data: 4 done
+root is NOT null
+send: 4 to right of: 1
+send: 4 to right of: 2
+send: 4 to right of: 3
+adding 4
+returning true to insert and then add
+adding data: 5 done
+root is NOT null
+send: 5 to right of: 1
+send: 5 to right of: 2
+send: 5 to right of: 3
+send: 5 to right of: 4
+adding 5
+returning true to insert and then add
+adding data: 6 done
+root is NOT null
+send: 6 to right of: 1
+send: 6 to right of: 2
+send: 6 to right of: 3
+send: 6 to right of: 4
+send: 6 to right of: 5
+adding 6
+returning true to insert and then add
+adding data: 10 done
+root is NOT null
+send: 10 to right of: 1
+send: 10 to right of: 2
+send: 10 to right of: 3
+send: 10 to right of: 4
+send: 10 to right of: 5
+send: 10 to right of: 6
+adding 10
+returning true to insert and then add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+adding data: 8 done
+root is NOT null
+send: 8 to right of: 1
+send: 8 to right of: 2
+send: 8 to right of: 3
+send: 8 to right of: 4
+send: 8 to right of: 5
+send: 8 to right of: 6
+send: 8 to left of: 10
+adding 8
+returning true to insert and then add
+adding data: 7 done
+root is NOT null
+send: 7 to right of: 1
+send: 7 to right of: 2
+send: 7 to right of: 3
+send: 7 to right of: 4
+send: 7 to right of: 5
+send: 7 to right of: 6
+send: 7 to left of: 10
+send: 7 to left of: 8
+adding 7
+returning true to insert and then add
+adding data: 9 done
+root is NOT null
+send: 9 to right of: 1
+send: 9 to right of: 2
+send: 9 to right of: 3
+send: 9 to right of: 4
+send: 9 to right of: 5
+send: 9 to right of: 6
+send: 9 to left of: 10
+send: 9 to right of: 8
+adding 9
+returning true to insert and then add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+File write complete
+
+Reading file2.txt...
+Beginning out_file2.txt write
+adding data: 1 done
+root is null; storing 1 as root
+adding 1
+returning true to insert and then add
+adding data: 2 done
+root is NOT null
+send: 2 to right of: 1
+adding 2
+returning true to insert and then add
+adding data: 3 done
+root is NOT null
+send: 3 to right of: 1
+send: 3 to right of: 2
+adding 3
+returning true to insert and then add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+adding data: 4 done
+root is NOT null
+send: 4 to right of: 1
+send: 4 to right of: 2
+send: 4 to right of: 3
+adding 4
+returning true to insert and then add
+adding data: 5 done
+root is NOT null
+send: 5 to right of: 1
+send: 5 to right of: 2
+send: 5 to right of: 3
+send: 5 to right of: 4
+adding 5
+returning true to insert and then add
+adding data: 6 done
+root is NOT null
+send: 6 to right of: 1
+send: 6 to right of: 2
+send: 6 to right of: 3
+send: 6 to right of: 4
+send: 6 to right of: 5
+adding 6
+returning true to insert and then add
+adding data: 10 done
+root is NOT null
+send: 10 to right of: 1
+send: 10 to right of: 2
+send: 10 to right of: 3
+send: 10 to right of: 4
+send: 10 to right of: 5
+send: 10 to right of: 6
+adding 10
+returning true to insert and then add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+adding data: 8 done
+root is NOT null
+send: 8 to right of: 1
+send: 8 to right of: 2
+send: 8 to right of: 3
+send: 8 to right of: 4
+send: 8 to right of: 5
+send: 8 to right of: 6
+send: 8 to left of: 10
+adding 8
+returning true to insert and then add
+adding data: 7 done
+root is NOT null
+send: 7 to right of: 1
+send: 7 to right of: 2
+send: 7 to right of: 3
+send: 7 to right of: 4
+send: 7 to right of: 5
+send: 7 to right of: 6
+send: 7 to left of: 10
+send: 7 to left of: 8
+adding 7
+returning true to insert and then add
+adding data: 9 done
+root is NOT null
+send: 9 to right of: 1
+send: 9 to right of: 2
+send: 9 to right of: 3
+send: 9 to right of: 4
+send: 9 to right of: 5
+send: 9 to right of: 6
+send: 9 to left of: 10
+send: 9 to right of: 8
+adding 9
+returning true to insert and then add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 11
+11 greater than : 1
+87: myData is: 11 and my other is: 1
+myData: 11 and local_root-.data: 1
+ second erase
+Local root right child: 
+11 greater than : 2
+87: myData is: 11 and my other is: 2
+myData: 11 and local_root-.data: 2
+ second erase
+Local root right child: 
+11 greater than : 3
+87: myData is: 11 and my other is: 3
+myData: 11 and local_root-.data: 3
+ second erase
+Local root right child: 
+11 greater than : 4
+87: myData is: 11 and my other is: 4
+myData: 11 and local_root-.data: 4
+ second erase
+Local root right child: 
+11 greater than : 5
+87: myData is: 11 and my other is: 5
+myData: 11 and local_root-.data: 5
+ second erase
+Local root right child: 
+11 greater than : 6
+87: myData is: 11 and my other is: 6
+myData: 11 and local_root-.data: 6
+ second erase
+Local root right child: 
+11 greater than : 10
+87: myData is: 11 and my other is: 10
+myData: 11 and local_root-.data: 10
+ second erase
+Local root right child: 
+oh heeeeellllll nah
+error 3
+remove: 10
+10 greater than : 1
+87: myData is: 10 and my other is: 1
+myData: 10 and local_root-.data: 1
+ second erase
+Local root right child: 
+10 greater than : 2
+87: myData is: 10 and my other is: 2
+myData: 10 and local_root-.data: 2
+ second erase
+Local root right child: 
+10 greater than : 3
+87: myData is: 10 and my other is: 3
+myData: 10 and local_root-.data: 3
+ second erase
+Local root right child: 
+10 greater than : 4
+87: myData is: 10 and my other is: 4
+myData: 10 and local_root-.data: 4
+ second erase
+Local root right child: 
+10 greater than : 5
+87: myData is: 10 and my other is: 5
+myData: 10 and local_root-.data: 5
+ second erase
+Local root right child: 
+10 greater than : 6
+87: myData is: 10 and my other is: 6
+myData: 10 and local_root-.data: 6
+ second erase
+Local root right child: 
+found item: 10 matches root: 10
+Passed 1
+Passed 2
+Passed 4
+Passed 6
+Passed 7
+remove: 9
+9 greater than : 1
+87: myData is: 9 and my other is: 1
+myData: 9 and local_root-.data: 1
+ second erase
+Local root right child: 
+9 greater than : 2
+87: myData is: 9 and my other is: 2
+myData: 9 and local_root-.data: 2
+ second erase
+Local root right child: 
+9 greater than : 3
+87: myData is: 9 and my other is: 3
+myData: 9 and local_root-.data: 3
+ second erase
+Local root right child: 
+9 greater than : 4
+87: myData is: 9 and my other is: 4
+myData: 9 and local_root-.data: 4
+ second erase
+Local root right child: 
+9 greater than : 5
+87: myData is: 9 and my other is: 5
+myData: 9 and local_root-.data: 5
+ second erase
+Local root right child: 
+9 greater than : 6
+87: myData is: 9 and my other is: 6
+myData: 9 and local_root-.data: 6
+ second erase
+Local root right child: 
+9 greater than : 8
+87: myData is: 9 and my other is: 8
+myData: 9 and local_root-.data: 8
+ second erase
+Local root right child: 
+found item: 9 matches root: 9
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 6
+6 greater than : 1
+87: myData is: 6 and my other is: 1
+myData: 6 and local_root-.data: 1
+ second erase
+Local root right child: 
+6 greater than : 2
+87: myData is: 6 and my other is: 2
+myData: 6 and local_root-.data: 2
+ second erase
+Local root right child: 
+6 greater than : 3
+87: myData is: 6 and my other is: 3
+myData: 6 and local_root-.data: 3
+ second erase
+Local root right child: 
+6 greater than : 4
+87: myData is: 6 and my other is: 4
+myData: 6 and local_root-.data: 4
+ second erase
+Local root right child: 
+6 greater than : 5
+87: myData is: 6 and my other is: 5
+myData: 6 and local_root-.data: 5
+ second erase
+Local root right child: 
+found item: 6 matches root: 6
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 8
+8 greater than : 1
+87: myData is: 8 and my other is: 1
+myData: 8 and local_root-.data: 1
+ second erase
+Local root right child: 
+8 greater than : 2
+87: myData is: 8 and my other is: 2
+myData: 8 and local_root-.data: 2
+ second erase
+Local root right child: 
+8 greater than : 3
+87: myData is: 8 and my other is: 3
+myData: 8 and local_root-.data: 3
+ second erase
+Local root right child: 
+8 greater than : 4
+87: myData is: 8 and my other is: 4
+myData: 8 and local_root-.data: 4
+ second erase
+Local root right child: 
+8 greater than : 5
+87: myData is: 8 and my other is: 5
+myData: 8 and local_root-.data: 5
+ second erase
+Local root right child: 
+found item: 8 matches root: 8
+Passed 1
+Passed 2
+Passed 4
+Passed 6
+Passed 7
+remove: 7
+7 greater than : 1
+87: myData is: 7 and my other is: 1
+myData: 7 and local_root-.data: 1
+ second erase
+Local root right child: 
+7 greater than : 2
+87: myData is: 7 and my other is: 2
+myData: 7 and local_root-.data: 2
+ second erase
+Local root right child: 
+7 greater than : 3
+87: myData is: 7 and my other is: 3
+myData: 7 and local_root-.data: 3
+ second erase
+Local root right child: 
+7 greater than : 4
+87: myData is: 7 and my other is: 4
+myData: 7 and local_root-.data: 4
+ second erase
+Local root right child: 
+7 greater than : 5
+87: myData is: 7 and my other is: 5
+myData: 7 and local_root-.data: 5
+ second erase
+Local root right child: 
+found item: 7 matches root: 7
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+remove: 5
+5 greater than : 1
+87: myData is: 5 and my other is: 1
+myData: 5 and local_root-.data: 1
+ second erase
+Local root right child: 
+5 greater than : 2
+87: myData is: 5 and my other is: 2
+myData: 5 and local_root-.data: 2
+ second erase
+Local root right child: 
+5 greater than : 3
+87: myData is: 5 and my other is: 3
+myData: 5 and local_root-.data: 3
+ second erase
+Local root right child: 
+5 greater than : 4
+87: myData is: 5 and my other is: 4
+myData: 5 and local_root-.data: 4
+ second erase
+Local root right child: 
+found item: 5 matches root: 5
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 4
+4 greater than : 1
+87: myData is: 4 and my other is: 1
+myData: 4 and local_root-.data: 1
+ second erase
+Local root right child: 
+4 greater than : 2
+87: myData is: 4 and my other is: 2
+myData: 4 and local_root-.data: 2
+ second erase
+Local root right child: 
+4 greater than : 3
+87: myData is: 4 and my other is: 3
+myData: 4 and local_root-.data: 3
+ second erase
+Local root right child: 
+found item: 4 matches root: 4
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 3
+3 greater than : 1
+87: myData is: 3 and my other is: 1
+myData: 3 and local_root-.data: 1
+ second erase
+Local root right child: 
+3 greater than : 2
+87: myData is: 3 and my other is: 2
+myData: 3 and local_root-.data: 2
+ second erase
+Local root right child: 
+found item: 3 matches root: 3
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 2
+2 greater than : 1
+87: myData is: 2 and my other is: 1
+myData: 2 and local_root-.data: 1
+ second erase
+Local root right child: 
+found item: 2 matches root: 2
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getRight
+remove: 1
+found item: 1 matches root: 1
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+root is NULL
+clearing
+postorder local root is NULL
+root is NULL
+File write complete
+
+Reading file3.txt...
+Beginning out_file3.txt write
+clearing
+postorder local root is NULL
+root is NULL
+adding data: 9 done
+root is null; storing 9 as root
+adding 9
+returning true to insert and then add
+adding data: 99 done
+root is NOT null
+send: 99 to right of: 9
+adding 99
+returning true to insert and then add
+adding data: 999 done
+root is NOT null
+send: 999 to right of: 9
+send: 999 to right of: 99
+adding 999
+returning true to insert and then add
+adding data: 9999 done
+root is NOT null
+send: 9999 to right of: 9
+send: 9999 to right of: 99
+send: 9999 to right of: 999
+adding 9999
+returning true to insert and then add
+adding data: 99999 done
+root is NOT null
+send: 99999 to right of: 9
+send: 99999 to right of: 99
+send: 99999 to right of: 999
+send: 99999 to right of: 9999
+adding 99999
+returning true to insert and then add
+adding data: 999999 done
+root is NOT null
+send: 999999 to right of: 9
+send: 999999 to right of: 99
+send: 999999 to right of: 999
+send: 999999 to right of: 9999
+send: 999999 to right of: 99999
+adding 999999
+returning true to insert and then add
+adding data: 9999999 done
+root is NOT null
+send: 9999999 to right of: 9
+send: 9999999 to right of: 99
+send: 9999999 to right of: 999
+send: 9999999 to right of: 9999
+send: 9999999 to right of: 99999
+send: 9999999 to right of: 999999
+adding 9999999
+returning true to insert and then add
+adding data: 99999999 done
+root is NOT null
+send: 99999999 to right of: 9
+send: 99999999 to right of: 99
+send: 99999999 to right of: 999
+send: 99999999 to right of: 9999
+send: 99999999 to right of: 99999
+send: 99999999 to right of: 999999
+send: 99999999 to right of: 9999999
+adding 99999999
+returning true to insert and then add
+adding data: 999999999 done
+root is NOT null
+send: 999999999 to right of: 9
+send: 999999999 to right of: 99
+send: 999999999 to right of: 999
+send: 999999999 to right of: 9999
+send: 999999999 to right of: 99999
+send: 999999999 to right of: 999999
+send: 999999999 to right of: 9999999
+send: 999999999 to right of: 99999999
+adding 999999999
+returning true to insert and then add
+adding data: 8 done
+root is NOT null
+send: 8 to left of: 9
+adding 8
+returning true to insert and then add
+adding data: 88 done
+root is NOT null
+send: 88 to right of: 9
+send: 88 to left of: 99
+adding 88
+returning true to insert and then add
+adding data: 888 done
+root is NOT null
+send: 888 to right of: 9
+send: 888 to right of: 99
+send: 888 to left of: 999
+adding 888
+returning true to insert and then add
+adding data: 8888 done
+root is NOT null
+send: 8888 to right of: 9
+send: 8888 to right of: 99
+send: 8888 to right of: 999
+send: 8888 to left of: 9999
+adding 8888
+returning true to insert and then add
+adding data: 88888 done
+root is NOT null
+send: 88888 to right of: 9
+send: 88888 to right of: 99
+send: 88888 to right of: 999
+send: 88888 to right of: 9999
+send: 88888 to left of: 99999
+adding 88888
+returning true to insert and then add
+adding data: 888888 done
+root is NOT null
+send: 888888 to right of: 9
+send: 888888 to right of: 99
+send: 888888 to right of: 999
+send: 888888 to right of: 9999
+send: 888888 to right of: 99999
+send: 888888 to left of: 999999
+adding 888888
+returning true to insert and then add
+adding data: 8888888 done
+root is NOT null
+send: 8888888 to right of: 9
+send: 8888888 to right of: 99
+send: 8888888 to right of: 999
+send: 8888888 to right of: 9999
+send: 8888888 to right of: 99999
+send: 8888888 to right of: 999999
+send: 8888888 to left of: 9999999
+adding 8888888
+returning true to insert and then add
+adding data: 88888888 done
+root is NOT null
+send: 88888888 to right of: 9
+send: 88888888 to right of: 99
+send: 88888888 to right of: 999
+send: 88888888 to right of: 9999
+send: 88888888 to right of: 99999
+send: 88888888 to right of: 999999
+send: 88888888 to right of: 9999999
+send: 88888888 to left of: 99999999
+adding 88888888
+returning true to insert and then add
+adding data: 7 done
+root is NOT null
+send: 7 to left of: 9
+send: 7 to left of: 8
+adding 7
+returning true to insert and then add
+adding data: 77 done
+root is NOT null
+send: 77 to right of: 9
+send: 77 to left of: 99
+send: 77 to left of: 88
+adding 77
+returning true to insert and then add
+adding data: 777 done
+root is NOT null
+send: 777 to right of: 9
+send: 777 to right of: 99
+send: 777 to left of: 999
+send: 777 to left of: 888
+adding 777
+returning true to insert and then add
+adding data: 7777 done
+root is NOT null
+send: 7777 to right of: 9
+send: 7777 to right of: 99
+send: 7777 to right of: 999
+send: 7777 to left of: 9999
+send: 7777 to left of: 8888
+adding 7777
+returning true to insert and then add
+adding data: 77777 done
+root is NOT null
+send: 77777 to right of: 9
+send: 77777 to right of: 99
+send: 77777 to right of: 999
+send: 77777 to right of: 9999
+send: 77777 to left of: 99999
+send: 77777 to left of: 88888
+adding 77777
+returning true to insert and then add
+adding data: 777777 done
+root is NOT null
+send: 777777 to right of: 9
+send: 777777 to right of: 99
+send: 777777 to right of: 999
+send: 777777 to right of: 9999
+send: 777777 to right of: 99999
+send: 777777 to left of: 999999
+send: 777777 to left of: 888888
+adding 777777
+returning true to insert and then add
+adding data: 7777777 done
+root is NOT null
+send: 7777777 to right of: 9
+send: 7777777 to right of: 99
+send: 7777777 to right of: 999
+send: 7777777 to right of: 9999
+send: 7777777 to right of: 99999
+send: 7777777 to right of: 999999
+send: 7777777 to left of: 9999999
+send: 7777777 to left of: 8888888
+adding 7777777
+returning true to insert and then add
+adding data: 6 done
+root is NOT null
+send: 6 to left of: 9
+send: 6 to left of: 8
+send: 6 to left of: 7
+adding 6
+returning true to insert and then add
+adding data: 66 done
+root is NOT null
+send: 66 to right of: 9
+send: 66 to left of: 99
+send: 66 to left of: 88
+send: 66 to left of: 77
+adding 66
+returning true to insert and then add
+adding data: 666 done
+root is NOT null
+send: 666 to right of: 9
+send: 666 to right of: 99
+send: 666 to left of: 999
+send: 666 to left of: 888
+send: 666 to left of: 777
+adding 666
+returning true to insert and then add
+adding data: 6666 done
+root is NOT null
+send: 6666 to right of: 9
+send: 6666 to right of: 99
+send: 6666 to right of: 999
+send: 6666 to left of: 9999
+send: 6666 to left of: 8888
+send: 6666 to left of: 7777
+adding 6666
+returning true to insert and then add
+adding data: 66666 done
+root is NOT null
+send: 66666 to right of: 9
+send: 66666 to right of: 99
+send: 66666 to right of: 999
+send: 66666 to right of: 9999
+send: 66666 to left of: 99999
+send: 66666 to left of: 88888
+send: 66666 to left of: 77777
+adding 66666
+returning true to insert and then add
+adding data: 666666 done
+root is NOT null
+send: 666666 to right of: 9
+send: 666666 to right of: 99
+send: 666666 to right of: 999
+send: 666666 to right of: 9999
+send: 666666 to right of: 99999
+send: 666666 to left of: 999999
+send: 666666 to left of: 888888
+send: 666666 to left of: 777777
+adding 666666
+returning true to insert and then add
+adding data: 5 done
+root is NOT null
+send: 5 to left of: 9
+send: 5 to left of: 8
+send: 5 to left of: 7
+send: 5 to left of: 6
+adding 5
+returning true to insert and then add
+adding data: 55 done
+root is NOT null
+send: 55 to right of: 9
+send: 55 to left of: 99
+send: 55 to left of: 88
+send: 55 to left of: 77
+send: 55 to left of: 66
+adding 55
+returning true to insert and then add
+adding data: 555 done
+root is NOT null
+send: 555 to right of: 9
+send: 555 to right of: 99
+send: 555 to left of: 999
+send: 555 to left of: 888
+send: 555 to left of: 777
+send: 555 to left of: 666
+adding 555
+returning true to insert and then add
+adding data: 5555 done
+root is NOT null
+send: 5555 to right of: 9
+send: 5555 to right of: 99
+send: 5555 to right of: 999
+send: 5555 to left of: 9999
+send: 5555 to left of: 8888
+send: 5555 to left of: 7777
+send: 5555 to left of: 6666
+adding 5555
+returning true to insert and then add
+adding data: 55555 done
+root is NOT null
+send: 55555 to right of: 9
+send: 55555 to right of: 99
+send: 55555 to right of: 999
+send: 55555 to right of: 9999
+send: 55555 to left of: 99999
+send: 55555 to left of: 88888
+send: 55555 to left of: 77777
+send: 55555 to left of: 66666
+adding 55555
+returning true to insert and then add
+adding data: 4 done
+root is NOT null
+send: 4 to left of: 9
+send: 4 to left of: 8
+send: 4 to left of: 7
+send: 4 to left of: 6
+send: 4 to left of: 5
+adding 4
+returning true to insert and then add
+adding data: 44 done
+root is NOT null
+send: 44 to right of: 9
+send: 44 to left of: 99
+send: 44 to left of: 88
+send: 44 to left of: 77
+send: 44 to left of: 66
+send: 44 to left of: 55
+adding 44
+returning true to insert and then add
+adding data: 444 done
+root is NOT null
+send: 444 to right of: 9
+send: 444 to right of: 99
+send: 444 to left of: 999
+send: 444 to left of: 888
+send: 444 to left of: 777
+send: 444 to left of: 666
+send: 444 to left of: 555
+adding 444
+returning true to insert and then add
+adding data: 4444 done
+root is NOT null
+send: 4444 to right of: 9
+send: 4444 to right of: 99
+send: 4444 to right of: 999
+send: 4444 to left of: 9999
+send: 4444 to left of: 8888
+send: 4444 to left of: 7777
+send: 4444 to left of: 6666
+send: 4444 to left of: 5555
+adding 4444
+returning true to insert and then add
+adding data: 3 done
+root is NOT null
+send: 3 to left of: 9
+send: 3 to left of: 8
+send: 3 to left of: 7
+send: 3 to left of: 6
+send: 3 to left of: 5
+send: 3 to left of: 4
+adding 3
+returning true to insert and then add
+adding data: 33 done
+root is NOT null
+send: 33 to right of: 9
+send: 33 to left of: 99
+send: 33 to left of: 88
+send: 33 to left of: 77
+send: 33 to left of: 66
+send: 33 to left of: 55
+send: 33 to left of: 44
+adding 33
+returning true to insert and then add
+adding data: 333 done
+root is NOT null
+send: 333 to right of: 9
+send: 333 to right of: 99
+send: 333 to left of: 999
+send: 333 to left of: 888
+send: 333 to left of: 777
+send: 333 to left of: 666
+send: 333 to left of: 555
+send: 333 to left of: 444
+adding 333
+returning true to insert and then add
+adding data: 2 done
+root is NOT null
+send: 2 to left of: 9
+send: 2 to left of: 8
+send: 2 to left of: 7
+send: 2 to left of: 6
+send: 2 to left of: 5
+send: 2 to left of: 4
+send: 2 to left of: 3
+adding 2
+returning true to insert and then add
+adding data: 22 done
+root is NOT null
+send: 22 to right of: 9
+send: 22 to left of: 99
+send: 22 to left of: 88
+send: 22 to left of: 77
+send: 22 to left of: 66
+send: 22 to left of: 55
+send: 22 to left of: 44
+send: 22 to left of: 33
+adding 22
+returning true to insert and then add
+adding data: 1 done
+root is NOT null
+send: 1 to left of: 9
+send: 1 to left of: 8
+send: 1 to left of: 7
+send: 1 to left of: 6
+send: 1 to left of: 5
+send: 1 to left of: 4
+send: 1 to left of: 3
+send: 1 to left of: 2
+adding 1
+returning true to insert and then add
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 22
+22 greater than : 9
+87: myData is: 22 and my other is: 9
+myData: 22 and local_root-.data: 9
+ second erase
+Local root right child: 
+22 less than: 99
+ first erase
+22 less than: 88
+ first erase
+22 less than: 77
+ first erase
+22 less than: 66
+ first erase
+22 less than: 55
+ first erase
+22 less than: 44
+ first erase
+22 less than: 33
+ first erase
+found item: 22 matches root: 22
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 33
+33 greater than : 9
+87: myData is: 33 and my other is: 9
+myData: 33 and local_root-.data: 9
+ second erase
+Local root right child: 
+33 less than: 99
+ first erase
+33 less than: 88
+ first erase
+33 less than: 77
+ first erase
+33 less than: 66
+ first erase
+33 less than: 55
+ first erase
+33 less than: 44
+ first erase
+found item: 33 matches root: 33
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 44
+44 greater than : 9
+87: myData is: 44 and my other is: 9
+myData: 44 and local_root-.data: 9
+ second erase
+Local root right child: 
+44 less than: 99
+ first erase
+44 less than: 88
+ first erase
+44 less than: 77
+ first erase
+44 less than: 66
+ first erase
+44 less than: 55
+ first erase
+found item: 44 matches root: 44
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 55
+55 greater than : 9
+87: myData is: 55 and my other is: 9
+myData: 55 and local_root-.data: 9
+ second erase
+Local root right child: 
+55 less than: 99
+ first erase
+55 less than: 88
+ first erase
+55 less than: 77
+ first erase
+55 less than: 66
+ first erase
+found item: 55 matches root: 55
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 66
+66 greater than : 9
+87: myData is: 66 and my other is: 9
+myData: 66 and local_root-.data: 9
+ second erase
+Local root right child: 
+66 less than: 99
+ first erase
+66 less than: 88
+ first erase
+66 less than: 77
+ first erase
+found item: 66 matches root: 66
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 77
+77 greater than : 9
+87: myData is: 77 and my other is: 9
+myData: 77 and local_root-.data: 9
+ second erase
+Local root right child: 
+77 less than: 99
+ first erase
+77 less than: 88
+ first erase
+found item: 77 matches root: 77
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 88
+88 greater than : 9
+87: myData is: 88 and my other is: 9
+myData: 88 and local_root-.data: 9
+ second erase
+Local root right child: 
+88 less than: 99
+ first erase
+found item: 88 matches root: 88
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 99
+99 greater than : 9
+87: myData is: 99 and my other is: 9
+myData: 99 and local_root-.data: 9
+ second erase
+Local root right child: 
+found item: 99 matches root: 99
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 4444
+4444 greater than : 9
+87: myData is: 4444 and my other is: 9
+myData: 4444 and local_root-.data: 9
+ second erase
+Local root right child: 
+4444 greater than : 999
+87: myData is: 4444 and my other is: 999
+myData: 4444 and local_root-.data: 999
+ second erase
+Local root right child: 
+4444 less than: 9999
+ first erase
+4444 less than: 8888
+ first erase
+4444 less than: 7777
+ first erase
+4444 less than: 6666
+ first erase
+4444 less than: 5555
+ first erase
+found item: 4444 matches root: 4444
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 5555
+5555 greater than : 9
+87: myData is: 5555 and my other is: 9
+myData: 5555 and local_root-.data: 9
+ second erase
+Local root right child: 
+5555 greater than : 999
+87: myData is: 5555 and my other is: 999
+myData: 5555 and local_root-.data: 999
+ second erase
+Local root right child: 
+5555 less than: 9999
+ first erase
+5555 less than: 8888
+ first erase
+5555 less than: 7777
+ first erase
+5555 less than: 6666
+ first erase
+found item: 5555 matches root: 5555
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 6666
+6666 greater than : 9
+87: myData is: 6666 and my other is: 9
+myData: 6666 and local_root-.data: 9
+ second erase
+Local root right child: 
+6666 greater than : 999
+87: myData is: 6666 and my other is: 999
+myData: 6666 and local_root-.data: 999
+ second erase
+Local root right child: 
+6666 less than: 9999
+ first erase
+6666 less than: 8888
+ first erase
+6666 less than: 7777
+ first erase
+found item: 6666 matches root: 6666
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 7777
+7777 greater than : 9
+87: myData is: 7777 and my other is: 9
+myData: 7777 and local_root-.data: 9
+ second erase
+Local root right child: 
+7777 greater than : 999
+87: myData is: 7777 and my other is: 999
+myData: 7777 and local_root-.data: 999
+ second erase
+Local root right child: 
+7777 less than: 9999
+ first erase
+7777 less than: 8888
+ first erase
+found item: 7777 matches root: 7777
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 8888
+8888 greater than : 9
+87: myData is: 8888 and my other is: 9
+myData: 8888 and local_root-.data: 9
+ second erase
+Local root right child: 
+8888 greater than : 999
+87: myData is: 8888 and my other is: 999
+myData: 8888 and local_root-.data: 999
+ second erase
+Local root right child: 
+8888 less than: 9999
+ first erase
+found item: 8888 matches root: 8888
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 9999
+9999 greater than : 9
+87: myData is: 9999 and my other is: 9
+myData: 9999 and local_root-.data: 9
+ second erase
+Local root right child: 
+9999 greater than : 999
+87: myData is: 9999 and my other is: 999
+myData: 9999 and local_root-.data: 999
+ second erase
+Local root right child: 
+found item: 9999 matches root: 9999
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 666666
+666666 greater than : 9
+87: myData is: 666666 and my other is: 9
+myData: 666666 and local_root-.data: 9
+ second erase
+Local root right child: 
+666666 greater than : 999
+87: myData is: 666666 and my other is: 999
+myData: 666666 and local_root-.data: 999
+ second erase
+Local root right child: 
+666666 greater than : 99999
+87: myData is: 666666 and my other is: 99999
+myData: 666666 and local_root-.data: 99999
+ second erase
+Local root right child: 
+666666 less than: 999999
+ first erase
+666666 less than: 888888
+ first erase
+666666 less than: 777777
+ first erase
+found item: 666666 matches root: 666666
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 777777
+777777 greater than : 9
+87: myData is: 777777 and my other is: 9
+myData: 777777 and local_root-.data: 9
+ second erase
+Local root right child: 
+777777 greater than : 999
+87: myData is: 777777 and my other is: 999
+myData: 777777 and local_root-.data: 999
+ second erase
+Local root right child: 
+777777 greater than : 99999
+87: myData is: 777777 and my other is: 99999
+myData: 777777 and local_root-.data: 99999
+ second erase
+Local root right child: 
+777777 less than: 999999
+ first erase
+777777 less than: 888888
+ first erase
+found item: 777777 matches root: 777777
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 888888
+888888 greater than : 9
+87: myData is: 888888 and my other is: 9
+myData: 888888 and local_root-.data: 9
+ second erase
+Local root right child: 
+888888 greater than : 999
+87: myData is: 888888 and my other is: 999
+myData: 888888 and local_root-.data: 999
+ second erase
+Local root right child: 
+888888 greater than : 99999
+87: myData is: 888888 and my other is: 99999
+myData: 888888 and local_root-.data: 99999
+ second erase
+Local root right child: 
+888888 less than: 999999
+ first erase
+found item: 888888 matches root: 888888
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 999999
+999999 greater than : 9
+87: myData is: 999999 and my other is: 9
+myData: 999999 and local_root-.data: 9
+ second erase
+Local root right child: 
+999999 greater than : 999
+87: myData is: 999999 and my other is: 999
+myData: 999999 and local_root-.data: 999
+ second erase
+Local root right child: 
+999999 greater than : 99999
+87: myData is: 999999 and my other is: 99999
+myData: 999999 and local_root-.data: 99999
+ second erase
+Local root right child: 
+found item: 999999 matches root: 999999
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 88888888
+88888888 greater than : 9
+87: myData is: 88888888 and my other is: 9
+myData: 88888888 and local_root-.data: 9
+ second erase
+Local root right child: 
+88888888 greater than : 999
+87: myData is: 88888888 and my other is: 999
+myData: 88888888 and local_root-.data: 999
+ second erase
+Local root right child: 
+88888888 greater than : 99999
+87: myData is: 88888888 and my other is: 99999
+myData: 88888888 and local_root-.data: 99999
+ second erase
+Local root right child: 
+88888888 greater than : 9999999
+87: myData is: 88888888 and my other is: 9999999
+myData: 88888888 and local_root-.data: 9999999
+ second erase
+Local root right child: 
+88888888 less than: 99999999
+ first erase
+found item: 88888888 matches root: 88888888
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 99999999
+99999999 greater than : 9
+87: myData is: 99999999 and my other is: 9
+myData: 99999999 and local_root-.data: 9
+ second erase
+Local root right child: 
+99999999 greater than : 999
+87: myData is: 99999999 and my other is: 999
+myData: 99999999 and local_root-.data: 999
+ second erase
+Local root right child: 
+99999999 greater than : 99999
+87: myData is: 99999999 and my other is: 99999
+myData: 99999999 and local_root-.data: 99999
+ second erase
+Local root right child: 
+99999999 greater than : 9999999
+87: myData is: 99999999 and my other is: 9999999
+myData: 99999999 and local_root-.data: 9999999
+ second erase
+Local root right child: 
+found item: 99999999 matches root: 99999999
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 999999999
+999999999 greater than : 9
+87: myData is: 999999999 and my other is: 9
+myData: 999999999 and local_root-.data: 9
+ second erase
+Local root right child: 
+999999999 greater than : 999
+87: myData is: 999999999 and my other is: 999
+myData: 999999999 and local_root-.data: 999
+ second erase
+Local root right child: 
+999999999 greater than : 99999
+87: myData is: 999999999 and my other is: 99999
+myData: 999999999 and local_root-.data: 99999
+ second erase
+Local root right child: 
+999999999 greater than : 9999999
+87: myData is: 999999999 and my other is: 9999999
+myData: 999999999 and local_root-.data: 9999999
+ second erase
+Local root right child: 
+found item: 999999999 matches root: 999999999
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 7777777
+7777777 greater than : 9
+87: myData is: 7777777 and my other is: 9
+myData: 7777777 and local_root-.data: 9
+ second erase
+Local root right child: 
+7777777 greater than : 999
+87: myData is: 7777777 and my other is: 999
+myData: 7777777 and local_root-.data: 999
+ second erase
+Local root right child: 
+7777777 greater than : 99999
+87: myData is: 7777777 and my other is: 99999
+myData: 7777777 and local_root-.data: 99999
+ second erase
+Local root right child: 
+7777777 less than: 9999999
+ first erase
+7777777 less than: 8888888
+ first erase
+found item: 7777777 matches root: 7777777
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 8888888
+8888888 greater than : 9
+87: myData is: 8888888 and my other is: 9
+myData: 8888888 and local_root-.data: 9
+ second erase
+Local root right child: 
+8888888 greater than : 999
+87: myData is: 8888888 and my other is: 999
+myData: 8888888 and local_root-.data: 999
+ second erase
+Local root right child: 
+8888888 greater than : 99999
+87: myData is: 8888888 and my other is: 99999
+myData: 8888888 and local_root-.data: 99999
+ second erase
+Local root right child: 
+8888888 less than: 9999999
+ first erase
+found item: 8888888 matches root: 8888888
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 9999999
+9999999 greater than : 9
+87: myData is: 9999999 and my other is: 9
+myData: 9999999 and local_root-.data: 9
+ second erase
+Local root right child: 
+9999999 greater than : 999
+87: myData is: 9999999 and my other is: 999
+myData: 9999999 and local_root-.data: 999
+ second erase
+Local root right child: 
+9999999 greater than : 99999
+87: myData is: 9999999 and my other is: 99999
+myData: 9999999 and local_root-.data: 99999
+ second erase
+Local root right child: 
+found item: 9999999 matches root: 9999999
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 55555
+55555 greater than : 9
+87: myData is: 55555 and my other is: 9
+myData: 55555 and local_root-.data: 9
+ second erase
+Local root right child: 
+55555 greater than : 999
+87: myData is: 55555 and my other is: 999
+myData: 55555 and local_root-.data: 999
+ second erase
+Local root right child: 
+55555 less than: 99999
+ first erase
+55555 less than: 88888
+ first erase
+55555 less than: 77777
+ first erase
+55555 less than: 66666
+ first erase
+found item: 55555 matches root: 55555
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 66666
+66666 greater than : 9
+87: myData is: 66666 and my other is: 9
+myData: 66666 and local_root-.data: 9
+ second erase
+Local root right child: 
+66666 greater than : 999
+87: myData is: 66666 and my other is: 999
+myData: 66666 and local_root-.data: 999
+ second erase
+Local root right child: 
+66666 less than: 99999
+ first erase
+66666 less than: 88888
+ first erase
+66666 less than: 77777
+ first erase
+found item: 66666 matches root: 66666
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 77777
+77777 greater than : 9
+87: myData is: 77777 and my other is: 9
+myData: 77777 and local_root-.data: 9
+ second erase
+Local root right child: 
+77777 greater than : 999
+87: myData is: 77777 and my other is: 999
+myData: 77777 and local_root-.data: 999
+ second erase
+Local root right child: 
+77777 less than: 99999
+ first erase
+77777 less than: 88888
+ first erase
+found item: 77777 matches root: 77777
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 88888
+88888 greater than : 9
+87: myData is: 88888 and my other is: 9
+myData: 88888 and local_root-.data: 9
+ second erase
+Local root right child: 
+88888 greater than : 999
+87: myData is: 88888 and my other is: 999
+myData: 88888 and local_root-.data: 999
+ second erase
+Local root right child: 
+88888 less than: 99999
+ first erase
+found item: 88888 matches root: 88888
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 99999
+99999 greater than : 9
+87: myData is: 99999 and my other is: 9
+myData: 99999 and local_root-.data: 9
+ second erase
+Local root right child: 
+99999 greater than : 999
+87: myData is: 99999 and my other is: 999
+myData: 99999 and local_root-.data: 999
+ second erase
+Local root right child: 
+found item: 99999 matches root: 99999
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 333
+333 greater than : 9
+87: myData is: 333 and my other is: 9
+myData: 333 and local_root-.data: 9
+ second erase
+Local root right child: 
+333 less than: 999
+ first erase
+333 less than: 888
+ first erase
+333 less than: 777
+ first erase
+333 less than: 666
+ first erase
+333 less than: 555
+ first erase
+333 less than: 444
+ first erase
+found item: 333 matches root: 333
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 444
+444 greater than : 9
+87: myData is: 444 and my other is: 9
+myData: 444 and local_root-.data: 9
+ second erase
+Local root right child: 
+444 less than: 999
+ first erase
+444 less than: 888
+ first erase
+444 less than: 777
+ first erase
+444 less than: 666
+ first erase
+444 less than: 555
+ first erase
+found item: 444 matches root: 444
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 555
+555 greater than : 9
+87: myData is: 555 and my other is: 9
+myData: 555 and local_root-.data: 9
+ second erase
+Local root right child: 
+555 less than: 999
+ first erase
+555 less than: 888
+ first erase
+555 less than: 777
+ first erase
+555 less than: 666
+ first erase
+found item: 555 matches root: 555
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 666
+666 greater than : 9
+87: myData is: 666 and my other is: 9
+myData: 666 and local_root-.data: 9
+ second erase
+Local root right child: 
+666 less than: 999
+ first erase
+666 less than: 888
+ first erase
+666 less than: 777
+ first erase
+found item: 666 matches root: 666
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 777
+777 greater than : 9
+87: myData is: 777 and my other is: 9
+myData: 777 and local_root-.data: 9
+ second erase
+Local root right child: 
+777 less than: 999
+ first erase
+777 less than: 888
+ first erase
+found item: 777 matches root: 777
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 888
+888 greater than : 9
+87: myData is: 888 and my other is: 9
+myData: 888 and local_root-.data: 9
+ second erase
+Local root right child: 
+888 less than: 999
+ first erase
+found item: 888 matches root: 888
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 999
+999 greater than : 9
+87: myData is: 999 and my other is: 9
+myData: 999 and local_root-.data: 9
+ second erase
+Local root right child: 
+found item: 999 matches root: 999
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 1
+1 less than: 9
+ first erase
+1 less than: 8
+ first erase
+1 less than: 7
+ first erase
+1 less than: 6
+ first erase
+1 less than: 5
+ first erase
+1 less than: 4
+ first erase
+1 less than: 3
+ first erase
+1 less than: 2
+ first erase
+found item: 1 matches root: 1
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 2
+2 less than: 9
+ first erase
+2 less than: 8
+ first erase
+2 less than: 7
+ first erase
+2 less than: 6
+ first erase
+2 less than: 5
+ first erase
+2 less than: 4
+ first erase
+2 less than: 3
+ first erase
+found item: 2 matches root: 2
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 3
+3 less than: 9
+ first erase
+3 less than: 8
+ first erase
+3 less than: 7
+ first erase
+3 less than: 6
+ first erase
+3 less than: 5
+ first erase
+3 less than: 4
+ first erase
+found item: 3 matches root: 3
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 4
+4 less than: 9
+ first erase
+4 less than: 8
+ first erase
+4 less than: 7
+ first erase
+4 less than: 6
+ first erase
+4 less than: 5
+ first erase
+found item: 4 matches root: 4
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 5
+5 less than: 9
+ first erase
+5 less than: 8
+ first erase
+5 less than: 7
+ first erase
+5 less than: 6
+ first erase
+found item: 5 matches root: 5
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 6
+6 less than: 9
+ first erase
+6 less than: 8
+ first erase
+6 less than: 7
+ first erase
+found item: 6 matches root: 6
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 7
+7 less than: 9
+ first erase
+7 less than: 8
+ first erase
+found item: 7 matches root: 7
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 8
+8 less than: 9
+ first erase
+found item: 8 matches root: 8
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+remove: 9
+found item: 9 matches root: 9
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+root is NULL
+clearing
+postorder local root is NULL
+root is NULL
+File write complete
+
+Reading file4.txt...
+Beginning out_file4.txt write
+adding data: 1 done
+root is null; storing 1 as root
+adding 1
+returning true to insert and then add
+adding data: 2 done
+root is NOT null
+send: 2 to right of: 1
+adding 2
+returning true to insert and then add
+adding data: 3 done
+root is NOT null
+send: 3 to right of: 1
+send: 3 to right of: 2
+adding 3
+returning true to insert and then add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+adding data: 3 done
+root is NOT null
+send: 3 to right of: 1
+send: 3 to right of: 2
+returning false to insert and then false to add
+adding data: 2 done
+root is NOT null
+send: 2 to right of: 1
+returning false to insert and then false to add
+adding data: 1 done
+root is NOT null
+returning false to insert and then false to add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+remove: 5
+5 greater than : 1
+87: myData is: 5 and my other is: 1
+myData: 5 and local_root-.data: 1
+ second erase
+Local root right child: 
+5 greater than : 2
+87: myData is: 5 and my other is: 2
+myData: 5 and local_root-.data: 2
+ second erase
+Local root right child: 
+5 greater than : 3
+87: myData is: 5 and my other is: 3
+myData: 5 and local_root-.data: 3
+ second erase
+Local root right child: 
+oh heeeeellllll nah
+error 3
+remove: 4
+4 greater than : 1
+87: myData is: 4 and my other is: 1
+myData: 4 and local_root-.data: 1
+ second erase
+Local root right child: 
+4 greater than : 2
+87: myData is: 4 and my other is: 2
+myData: 4 and local_root-.data: 2
+ second erase
+Local root right child: 
+4 greater than : 3
+87: myData is: 4 and my other is: 3
+myData: 4 and local_root-.data: 3
+ second erase
+Local root right child: 
+oh heeeeellllll nah
+error 3
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+remove: 3
+3 greater than : 1
+87: myData is: 3 and my other is: 1
+myData: 3 and local_root-.data: 1
+ second erase
+Local root right child: 
+3 greater than : 2
+87: myData is: 3 and my other is: 2
+myData: 3 and local_root-.data: 2
+ second erase
+Local root right child: 
+found item: 3 matches root: 3
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+remove: 2
+2 greater than : 1
+87: myData is: 2 and my other is: 1
+myData: 2 and local_root-.data: 1
+ second erase
+Local root right child: 
+found item: 2 matches root: 2
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+getData
+getLeft
+getRight
+remove: 3
+3 greater than : 1
+87: myData is: 3 and my other is: 1
+myData: 3 and local_root-.data: 1
+ second erase
+Local root right child: 
+oh heeeeellllll nah
+error 3
+remove: 2
+2 greater than : 1
+87: myData is: 2 and my other is: 1
+myData: 2 and local_root-.data: 1
+ second erase
+Local root right child: 
+oh heeeeellllll nah
+error 3
+getData
+getLeft
+getRight
+remove: 1
+found item: 1 matches root: 1
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+root is NULL
+adding data: 8 done
+root is null; storing 8 as root
+adding 8
+returning true to insert and then add
+adding data: 12 done
+root is NOT null
+send: 12 to right of: 8
+adding 12
+returning true to insert and then add
+adding data: 14 done
+root is NOT null
+send: 14 to right of: 8
+send: 14 to right of: 12
+adding 14
+returning true to insert and then add
+adding data: 15 done
+root is NOT null
+send: 15 to right of: 8
+send: 15 to right of: 12
+send: 15 to right of: 14
+adding 15
+returning true to insert and then add
+adding data: 13 done
+root is NOT null
+send: 13 to right of: 8
+send: 13 to right of: 12
+send: 13 to left of: 14
+adding 13
+returning true to insert and then add
+adding data: 10 done
+root is NOT null
+send: 10 to right of: 8
+send: 10 to left of: 12
+adding 10
+returning true to insert and then add
+adding data: 11 done
+root is NOT null
+send: 11 to right of: 8
+send: 11 to left of: 12
+send: 11 to right of: 10
+adding 11
+returning true to insert and then add
+adding data: 9 done
+root is NOT null
+send: 9 to right of: 8
+send: 9 to left of: 12
+send: 9 to left of: 10
+adding 9
+returning true to insert and then add
+adding data: 4 done
+root is NOT null
+send: 4 to left of: 8
+adding 4
+returning true to insert and then add
+adding data: 6 done
+root is NOT null
+send: 6 to left of: 8
+send: 6 to right of: 4
+adding 6
+returning true to insert and then add
+adding data: 5 done
+root is NOT null
+send: 5 to left of: 8
+send: 5 to right of: 4
+send: 5 to left of: 6
+adding 5
+returning true to insert and then add
+adding data: 7 done
+root is NOT null
+send: 7 to left of: 8
+send: 7 to right of: 4
+send: 7 to right of: 6
+adding 7
+returning true to insert and then add
+adding data: 2 done
+root is NOT null
+send: 2 to left of: 8
+send: 2 to left of: 4
+adding 2
+returning true to insert and then add
+adding data: 3 done
+root is NOT null
+send: 3 to left of: 8
+send: 3 to left of: 4
+send: 3 to right of: 2
+adding 3
+returning true to insert and then add
+adding data: 1 done
+root is NOT null
+send: 1 to left of: 8
+send: 1 to left of: 4
+send: 1 to left of: 2
+adding 1
+returning true to insert and then add
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+clearing
+postorder local root is NULL
+postorder local root is NULL
+deleting: 1
+postorder local root is NULL
+postorder local root is NULL
+deleting: 3
+deleting: 2
+postorder local root is NULL
+postorder local root is NULL
+deleting: 5
+postorder local root is NULL
+postorder local root is NULL
+deleting: 7
+deleting: 6
+deleting: 4
+postorder local root is NULL
+postorder local root is NULL
+deleting: 9
+postorder local root is NULL
+postorder local root is NULL
+deleting: 11
+deleting: 10
+postorder local root is NULL
+postorder local root is NULL
+deleting: 13
+postorder local root is NULL
+postorder local root is NULL
+deleting: 15
+deleting: 14
+deleting: 12
+deleting: 8
+adding data: 1 done
+root is null; storing 1 as root
+adding 1
+returning true to insert and then add
+adding data: 2 done
+root is NOT null
+send: 2 to right of: 1
+adding 2
+returning true to insert and then add
+adding data: 3 done
+root is NOT null
+send: 3 to right of: 1
+send: 3 to right of: 2
+adding 3
+returning true to insert and then add
+adding data: 4 done
+root is NOT null
+send: 4 to right of: 1
+send: 4 to right of: 2
+send: 4 to right of: 3
+adding 4
+returning true to insert and then add
+adding data: 5 done
+root is NOT null
+send: 5 to right of: 1
+send: 5 to right of: 2
+send: 5 to right of: 3
+send: 5 to right of: 4
+adding 5
+returning true to insert and then add
+adding data: 6 done
+root is NOT null
+send: 6 to right of: 1
+send: 6 to right of: 2
+send: 6 to right of: 3
+send: 6 to right of: 4
+send: 6 to right of: 5
+adding 6
+returning true to insert and then add
+adding data: 7 done
+root is NOT null
+send: 7 to right of: 1
+send: 7 to right of: 2
+send: 7 to right of: 3
+send: 7 to right of: 4
+send: 7 to right of: 5
+send: 7 to right of: 6
+adding 7
+returning true to insert and then add
+adding data: 8 done
+root is NOT null
+send: 8 to right of: 1
+send: 8 to right of: 2
+send: 8 to right of: 3
+send: 8 to right of: 4
+send: 8 to right of: 5
+send: 8 to right of: 6
+send: 8 to right of: 7
+adding 8
+returning true to insert and then add
+adding data: 9 done
+root is NOT null
+send: 9 to right of: 1
+send: 9 to right of: 2
+send: 9 to right of: 3
+send: 9 to right of: 4
+send: 9 to right of: 5
+send: 9 to right of: 6
+send: 9 to right of: 7
+send: 9 to right of: 8
+adding 9
+returning true to insert and then add
+adding data: 10 done
+root is NOT null
+send: 10 to right of: 1
+send: 10 to right of: 2
+send: 10 to right of: 3
+send: 10 to right of: 4
+send: 10 to right of: 5
+send: 10 to right of: 6
+send: 10 to right of: 7
+send: 10 to right of: 8
+send: 10 to right of: 9
+adding 10
+returning true to insert and then add
+adding data: 11 done
+root is NOT null
+send: 11 to right of: 1
+send: 11 to right of: 2
+send: 11 to right of: 3
+send: 11 to right of: 4
+send: 11 to right of: 5
+send: 11 to right of: 6
+send: 11 to right of: 7
+send: 11 to right of: 8
+send: 11 to right of: 9
+send: 11 to right of: 10
+adding 11
+returning true to insert and then add
+adding data: 12 done
+root is NOT null
+send: 12 to right of: 1
+send: 12 to right of: 2
+send: 12 to right of: 3
+send: 12 to right of: 4
+send: 12 to right of: 5
+send: 12 to right of: 6
+send: 12 to right of: 7
+send: 12 to right of: 8
+send: 12 to right of: 9
+send: 12 to right of: 10
+send: 12 to right of: 11
+adding 12
+returning true to insert and then add
+adding data: 13 done
+root is NOT null
+send: 13 to right of: 1
+send: 13 to right of: 2
+send: 13 to right of: 3
+send: 13 to right of: 4
+send: 13 to right of: 5
+send: 13 to right of: 6
+send: 13 to right of: 7
+send: 13 to right of: 8
+send: 13 to right of: 9
+send: 13 to right of: 10
+send: 13 to right of: 11
+send: 13 to right of: 12
+adding 13
+returning true to insert and then add
+adding data: 14 done
+root is NOT null
+send: 14 to right of: 1
+send: 14 to right of: 2
+send: 14 to right of: 3
+send: 14 to right of: 4
+send: 14 to right of: 5
+send: 14 to right of: 6
+send: 14 to right of: 7
+send: 14 to right of: 8
+send: 14 to right of: 9
+send: 14 to right of: 10
+send: 14 to right of: 11
+send: 14 to right of: 12
+send: 14 to right of: 13
+adding 14
+returning true to insert and then add
+adding data: 15 done
+root is NOT null
+send: 15 to right of: 1
+send: 15 to right of: 2
+send: 15 to right of: 3
+send: 15 to right of: 4
+send: 15 to right of: 5
+send: 15 to right of: 6
+send: 15 to right of: 7
+send: 15 to right of: 8
+send: 15 to right of: 9
+send: 15 to right of: 10
+send: 15 to right of: 11
+send: 15 to right of: 12
+send: 15 to right of: 13
+send: 15 to right of: 14
+adding 15
+returning true to insert and then add
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+clearing
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+postorder local root is NULL
+deleting: 15
+deleting: 14
+deleting: 13
+deleting: 12
+deleting: 11
+deleting: 10
+deleting: 9
+deleting: 8
+deleting: 7
+deleting: 6
+deleting: 5
+deleting: 4
+deleting: 3
+deleting: 2
+deleting: 1
+adding data: 15 done
+root is null; storing 15 as root
+adding 15
+returning true to insert and then add
+adding data: 14 done
+root is NOT null
+send: 14 to left of: 15
+adding 14
+returning true to insert and then add
+adding data: 7 done
+root is NOT null
+send: 7 to left of: 15
+send: 7 to left of: 14
+adding 7
+returning true to insert and then add
+adding data: 5 done
+root is NOT null
+send: 5 to left of: 15
+send: 5 to left of: 14
+send: 5 to left of: 7
+adding 5
+returning true to insert and then add
+adding data: 9 done
+root is NOT null
+send: 9 to left of: 15
+send: 9 to left of: 14
+send: 9 to right of: 7
+adding 9
+returning true to insert and then add
+adding data: 3 done
+root is NOT null
+send: 3 to left of: 15
+send: 3 to left of: 14
+send: 3 to left of: 7
+send: 3 to left of: 5
+adding 3
+returning true to insert and then add
+adding data: 6 done
+root is NOT null
+send: 6 to left of: 15
+send: 6 to left of: 14
+send: 6 to left of: 7
+send: 6 to right of: 5
+adding 6
+returning true to insert and then add
+adding data: 8 done
+root is NOT null
+send: 8 to left of: 15
+send: 8 to left of: 14
+send: 8 to right of: 7
+send: 8 to left of: 9
+adding 8
+returning true to insert and then add
+adding data: 12 done
+root is NOT null
+send: 12 to left of: 15
+send: 12 to left of: 14
+send: 12 to right of: 7
+send: 12 to right of: 9
+adding 12
+returning true to insert and then add
+adding data: 1 done
+root is NOT null
+send: 1 to left of: 15
+send: 1 to left of: 14
+send: 1 to left of: 7
+send: 1 to left of: 5
+send: 1 to left of: 3
+adding 1
+returning true to insert and then add
+adding data: 11 done
+root is NOT null
+send: 11 to left of: 15
+send: 11 to left of: 14
+send: 11 to right of: 7
+send: 11 to right of: 9
+send: 11 to left of: 12
+adding 11
+returning true to insert and then add
+adding data: 13 done
+root is NOT null
+send: 13 to left of: 15
+send: 13 to left of: 14
+send: 13 to right of: 7
+send: 13 to right of: 9
+send: 13 to right of: 12
+adding 13
+returning true to insert and then add
+adding data: 2 done
+root is NOT null
+send: 2 to left of: 15
+send: 2 to left of: 14
+send: 2 to left of: 7
+send: 2 to left of: 5
+send: 2 to left of: 3
+send: 2 to right of: 1
+adding 2
+returning true to insert and then add
+adding data: 10 done
+root is NOT null
+send: 10 to left of: 15
+send: 10 to left of: 14
+send: 10 to right of: 7
+send: 10 to right of: 9
+send: 10 to left of: 12
+send: 10 to left of: 11
+adding 10
+returning true to insert and then add
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 3
+3 less than: 15
+ first erase
+3 less than: 14
+ first erase
+3 less than: 7
+ first erase
+3 less than: 5
+ first erase
+found item: 3 matches root: 3
+Passed 1
+Passed 2
+Passed 4
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getRight
+getData
+getLeft
+getRight
+remove: 5
+5 less than: 15
+ first erase
+5 less than: 14
+ first erase
+5 less than: 7
+ first erase
+found item: 5 matches root: 5
+Passed 1
+Passed 2
+Passed 5
+replacing:
+old_root: 5 local_root: 1
+replacing:
+old_root: 5 local_root: 2
+2 greater than : 1
+87: myData is: 2 and my other is: 1
+myData: 2 and local_root-.data: 1
+ second erase
+Local root right child: 
+found item: 2 matches root: 2
+Passed 1
+Passed 2
+Passed 3
+Passed 6
+Passed 7
+erased!
+
+Passed 6
+Passed 7
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getData
+getLeft
+getLeft
+getRight
+getRight
