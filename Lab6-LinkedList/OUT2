@@ -1,0 +1,37 @@
+Reading file1.txt...
+'isString' flag set to false
+The LinkedList for file 1 will contain ints
+Beginning out_file1.txt write
+new head: 1
+File write complete
+
+Reading file2.txt...
+'isString' flag set to true
+The LinkedList for file 2 will contain strings
+Beginning out_file2.txt write
+new head: lazy
+File write complete
+
+Reading file3.txt...
+'isString' flag set to false
+The LinkedList for file 3 will contain ints
+Beginning out_file3.txt write
+new head: 10
+File write complete
+
+Reading file4.txt...
+'isString' flag set to true
+The LinkedList for file 4 will contain strings
+Beginning out_file4.txt write
+new head: Combing
+new head: Combing
+File write complete
+
+Reading file5.txt...
+'isString' flag set to true
+The LinkedList for file 5 will contain strings
+Beginning out_file5.txt write
+new head: so,
+File write complete
+
+end
